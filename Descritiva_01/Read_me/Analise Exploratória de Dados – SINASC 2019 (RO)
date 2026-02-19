@@ -1,1 +1,55 @@
+📊 Análise Exploratória de Dados – SINASC 2019 (RO)
 
+Este repositório contém uma análise exploratória da base de dados do Sistema de Informações sobre Nascidos Vivos (SINASC), disponibilizada pelo DataSUS.
+
+O objetivo foi aplicar técnicas de análise de dados utilizando Python para identificar padrões e gerar visualizações relevantes.
+
+🔎 Objetivos da análise
+
+Explorar a distribuição das variáveis APGAR1 e APGAR5
+
+Analisar frequências de:
+
+Sexo do recém-nascido
+
+Tempo de gestação
+
+Estado civil da mãe
+
+Número de consultas pré-natal
+
+Calcular a média do APGAR5 por número de consultas
+
+Construir painel visual consolidado
+
+🛠 Tecnologias utilizadas
+
+Python
+
+Pandas
+
+Matplotlib
+
+📈 Principais insights
+
+Predominância de nascimentos com APGAR5 elevado
+
+Relação positiva entre número de consultas pré-natal e média do APGAR5
+
+Distribuição equilibrada entre sexos
+
+📁 Estrutura do projeto
+
+analise_sinasc.ipynb → Notebook com análise completa
+
+sinasc_RO_2019.csv → Base de dados utilizada
+
+🎯 Competências desenvolvidas
+
+Análise exploratória de dados (EDA)
+
+Manipulação de dados com Pandas
+
+Construção de visualizações
+
+Interpretação de indicadores
